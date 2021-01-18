@@ -12,7 +12,9 @@ footer{
     background-color: white !important;
     color: black !important;
 }
-
+.fas{
+    margin-left:2rem;
+}
 
 .switch {
     display: flex;
