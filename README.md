@@ -1,1 +1,1 @@
-# Donate Button Integration.
+# Payment Gateway Integration.
